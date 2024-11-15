@@ -22,9 +22,9 @@ PolaFit is a mobile app offering personalized nutrition and exercise recommendat
 ## Repositories
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Machine Learning | [Github](https://github.com/Mubazir-Bangkit-2023/mubazir-android) |
-|  Cloud Computing  | [Github](https://github.com/Mubazir-Bangkit-2023/mubazir-cloud-computing)  |
-|   Mobile Development  | [Github](https://github.com/Mubazir-Bangkit-2023/mubazir-machine-learning)  |
+| Machine Learning | [Github](https://github.com/PolaFit/polafit-machine-learning) |
+|  Cloud Computing  | [Github](https://github.com/PolaFit/polafit-cloud-computing)  |
+|   Mobile Development  | [Github](https://github.com/PolaFit/polafit-mobile-development)  |
 
 ## Project Documents
 - Project Plan : https://docs.google.com/document/d/1649wIwYlWnlQH9RXtVBdlBGMOCTD17Z3ptlTA-d_Lf0/edit?usp=sharing
