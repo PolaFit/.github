@@ -29,3 +29,5 @@ PolaFit is a mobile app offering personalized nutrition and exercise recommendat
 ## Project Documents
 - Project Plan : https://docs.google.com/document/d/1649wIwYlWnlQH9RXtVBdlBGMOCTD17Z3ptlTA-d_Lf0/edit?usp=sharing
 
+## Android Package Kit (APK)
+- Project Plan : https://drive.google.com/file/d/1dgPkMoxC9rcSw_9JOPMCE46de1fJJyDX/view?usp=sharing
